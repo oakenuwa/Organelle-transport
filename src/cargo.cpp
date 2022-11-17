@@ -285,7 +285,7 @@ string cargo::get_BC(int motor)
      
      }
      
-     cout<<"cargo walk done at time "<<t<<" secs"<<endl;
+     //cout<<"cargo walk done at time "<<t<<" secs"<<endl;
     // this->update_energies();
      
  } 
